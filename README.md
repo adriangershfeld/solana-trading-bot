@@ -1,3 +1,6 @@
+forked for if i need to modify anything :)
+
+
 # Solana Trading Bot (Beta)
 
 The Solana Trading Bot is a software tool designed to automate the buying and selling of tokens on the Solana blockchain.
